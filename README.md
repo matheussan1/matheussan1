@@ -1,9 +1,9 @@
-### Olá! Eu sou o Matheus Santos👋
+### Olá! Eu sou o Matheus Santos
 
-- 👨‍💻 Hoje estou a procura de uma oportunidade de estagio.
+- 👨‍💻 Estou a procura de uma oportunidade de estágio.
 - 📘 Atualmente estudando OOP com Java
 - ✉ Contate-me no email: m.fegueredo@hotmail.com
-- 🤔 Pronouns: ele/dele✉
+- 🤔 Pronouns: ele/dele
   
   <div>
   <a href="https://github.com/matheussan1">
